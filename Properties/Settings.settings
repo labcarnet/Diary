@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Diary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="dataBaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Diary</Value>
+    </Setting>
+    <Setting Name="userId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">diary</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="serverAdress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(local)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
